@@ -145,6 +145,9 @@ const Clock = () => {
         </div>
       <audio id="beep" preload="auto" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav"></audio>
       </div>
+      <div id="nivwer">
+        <a href="https://github.com/nivwer" target="_blank">by nivwer</a>
+      </div>
     </div>
   );
 };

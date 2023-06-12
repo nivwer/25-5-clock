@@ -1,0 +1,13 @@
+#nivwer {
+    font-size: 18px;
+    position: fixed;
+    left: 50%;
+    bottom: 50px;
+    transform: translateX(-50%);
+  }
+
+  #nivwer > a {
+    text-decoration: none;
+    color: var(--color-letter1);
+    outline: none;
+  }
