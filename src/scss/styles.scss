@@ -1,0 +1,22 @@
+@import "bootstrap/scss/bootstrap";
+
+
+
+$theme-colors: (
+  "primary": #0d0d0d,
+  "danger": $danger
+);
+
+.text-gray-light {
+    color: #bdbdbd;
+  }
+
+.text-gray-dark {
+    color: #808080;
+  }
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
